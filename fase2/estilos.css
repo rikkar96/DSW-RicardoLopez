@@ -1,0 +1,23 @@
+header{
+    background-color: beige;
+    padding: 20px;
+    
+}
+nav{
+    background-color:lightgrey;
+
+}
+article{
+    background-color: gold;   
+
+}
+aside{
+    background-color: wheat;
+    padding: 30px;
+}
+footer{
+    background-color: thistle;
+    color: azure;
+    padding:  10px;
+
+}
